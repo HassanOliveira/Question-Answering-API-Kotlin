@@ -1,43 +1,39 @@
 # Smart-Tribune-Test-Hassan
 
-## Description
+### Description
 
-This is a RESTful API for a question and answer system. It allows users to create, retrieve, update and delete questions, as well as answer them. 
+<p align="center"> This is a RESTful API for a question and answer system. It allows users to create, retrieve, update and delete questions. </p>
 
-## Technologies used
+### 🛠 Technologies
 
-- Kotlin
-- Spring Boot
-- PostgreSQL
-- Hibernate
-- Swagger
+- [Kotlin](https://kotlinlang.org/)
+- [Spring Boot](https://spring.io/)
+- [PostgreSQL](https://www.postgresql.org/)
 
-## Requirements
+### 💡 Requirements
 
 - Java 11
 - PostgreSQL
 
-## How to run
+### 🎲 How to run
 
 To run the project, you can use an IDE of your choice, such as IntelliJ or Eclipse. Follow the steps below:
 
 1. Clone the repository to your local machine.
-2. Open the project in your preferred IDE.
+2. Open the project in your preferred IDE (recommended IntelliJ).
 3. Make sure you have Java 11 or higher installed.
 4. Create a PostgreSQL database and update the application.properties file with your database credentials.
-5. Run the application.
-6. The application will be available at `http://localhost:8080`.
+5. Run the QaApplicationTests and you will create the CSV file and also the tables in the database.
 
-## API Documentation
+### 👨‍💻 Author
 
-The API documentation is not yet available.
+<a href="http://www.devhbo.com">
+ <img style="border-radius: 50%;" src="http://www.devhbo.com/static/images/IMAGEM%20DE%20PERFIL.png" width="130px;" alt="MyPortfolio"/>
+ <br />
+ <sub><b>Hassan Bittencourt</b></sub></a> <a href="http://www.devhbo.com" title="Hassan Bittencourt">🚀</a>
 
 
-Note: Before running the application, make sure that you have created the necessary tables in your PostgreSQL database. You can do this by running the schema.sql script located in the src/main/resources directory.
+Made with ❤️ by Hassan Bittencourt 👋🏽 Contact me!
 
-To run the application, you can either run the main function in the Application.kt file from your IDE or build the project using Gradle and run the jar file generated in the build/libs directory using the following command:
-
-java -jar qanda-0.0.1-SNAPSHOT.jar
-
-Make sure to replace qanda-0.0.1-SNAPSHOT.jar with the name of the jar file generated in your build.
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaboliveira/)](https://www.linkedin.com/in/hassanaboliveira/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:hassan_bittencourt@hotmail.com)](mailto:hassan_bittencourt@hotmail.com)
