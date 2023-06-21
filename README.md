@@ -28,7 +28,7 @@ To run the project, you can use an IDE of your choice, such as IntelliJ or Eclip
 ### 👨‍💻 Author
 
 <a href="http://www.devhbo.com">
- <img style="border-radius: 50%;" src="http://www.devhbo.com/static/images/IMAGEM%20DE%20PERFIL.png" width="130px;" alt="MyPortfolio"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84877091?s=400&u=500771d2fbab5b00c7943330d76415894c7ecee1&v=4" width="130px;" alt="MyPortfolio"/>
  <br />
  <sub><b>Hassan Bittencourt</b></sub></a> <a href="http://www.devhbo.com" title="Hassan Bittencourt">🚀</a>
 
